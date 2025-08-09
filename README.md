@@ -1,6 +1,8 @@
 # SimpleGlasses
 CustomCosmetics
 
+# To access both of the custom made cosmetics click the release channels and you will see both :)
+
 # Glasses for Wrysers Custom Cosmetics ( Terrible old glasses model  ) 
 <img width="1919" height="792" alt="image" src="https://github.com/user-attachments/assets/b33721c9-60b7-4502-bfa8-95abe643be79" />
 
